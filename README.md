@@ -9,6 +9,7 @@ The QCM import script splits the Garmin file format which contains the frequency
 
 
 Used for the analysis performed in my Master thesis as well as the paper for which the results were used as well: 
+
 [1] S. P. Emge, "Einblicke in das kapazitive Ladeverhalten von porösen Kohlenstoffelektroden in verschiedenen ionischen Flüssigkeiten durch EQCM Messungen" (Master thesis), 2016, Philipps-Universität Marburg, Marburg, Germany.
 
 [2] N. Jäckel, S. P. Emge, B. Krüner, B. Roling, V. Presser, "Quantitative Information about Electrosorption of Ionic Liquids in Carbon Nanopores from Electrochemical Dilatometry and Quartz Crystal Microbalance Measurements" J. Phys. Chem. C 2017, 121, 19120.
