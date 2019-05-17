@@ -1,5 +1,5 @@
 # Gamry-eQCM
-Scripts to import and resort Data from the Gamry file format .DTA into a better analysible format
+Scripts to import and re-sort Data from the Gamry file format .DTA into a better analysible format
 
 A collection of scripts to convert the output from the Gamry eQCM setup (Gamry’s eQCM 10M + Potentiostat e.g. Interface 1010, see https://www.gamry.com/qcm/quartz-crystal-microbalance/eqcm-quartz-crystal-microbalance-2/) into a file that can be plotted easily 
 without having to use Garmins plotting software first.
